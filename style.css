@@ -102,7 +102,37 @@ footer{
     color: rgb(0, 47, 255);
 }
 
-@media screen and (max-width:600px) {
+@media screen and (min-width:300px) and (max-width:400px)
+{
+    .container{
+        display: flex;
+        flex-flow:column;
+        align-items: flex-start;
+       }
+       /* .box{
+        padding-top: 30px;
+       } */
+       #box1 img{
+        width: 20em;
+       }
+       #box2{
+        display: flex;
+        align-items: flex-start;
+       }
+       #box4{
+         font-size: 12px;
+         line-height: 30px;
+       }
+       #box5{
+        font-size: 14px;
+        width: 100%;
+       }
+       footer{
+        padding-top: 2rem;
+       }
+}
+
+@media screen and (max-width:600px) and (min-width:500px) {
    .container{
     display: flex;
     flex-flow:column;
