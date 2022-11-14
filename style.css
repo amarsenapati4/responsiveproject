@@ -91,6 +91,10 @@ line-height: 21px;
 
 letter-spacing: -0.035em;
 text-transform: uppercase;
+    transition: all .2s ease-in-out;
+}
+#box6>button:hover{
+    transform: scale(1.1); 
 }
 footer{
     font-family: 'Poppins', sans-serif;
