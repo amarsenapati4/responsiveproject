@@ -43,16 +43,18 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 - What was your experience?
+   It was a great exprience to devlope the page as per challenge.Hopw to do more such challenge in near future.
 - What have you learned/improved?
+   Through this challenge i have learned and improved lot of things regarding css as i am a beginner,learned to use css flexbox properly. 
 - Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [html]
+- [css]
+- 
 
 ## Features
 
