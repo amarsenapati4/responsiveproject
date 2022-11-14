@@ -43,9 +43,9 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - Where can I see your demo?
 - What was your experience?
-   It was a great exprience to devlope the page as per challenge.Hopw to do more such challenge in near future.
+   -It was a great exprience to devlope the page as per challenge.Hopw to do more such challenge in near future.
 - What have you learned/improved?
-   Through this challenge i have learned and improved lot of things regarding css as i am a beginner,learned to use css flexbox properly. 
+   -Through this challenge i have learned and improved lot of things regarding css as i am a beginner,learned to use css flexbox properly. 
 - Your wisdom? :)
 
 ### Built With
