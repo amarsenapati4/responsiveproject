@@ -147,11 +147,12 @@ footer{
         align-items: flex-start;
        }
        #box4{
+          width:70%;
          font-size: 15px;
          line-height: 30px;
        }
        #box5{
-       width: 100%;
+       width: 80%;
        }
        footer{
         padding-top: 3rem;
